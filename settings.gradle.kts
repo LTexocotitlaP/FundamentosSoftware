@@ -6,3 +6,4 @@
  */
 
 rootProject.name = "FundamentosSoftware"
+include("app")
